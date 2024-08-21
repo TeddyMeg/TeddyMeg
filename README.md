@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TeddyMeg
+- I am an App (Flutter and Kotlin) and Web (MERN stack developer). 
 - 👀 My research area includes applying deep learning techniques and computer vision for the early diagnosis of Parkinson’s Disease from MRI and DaT Scan images
 - 🌱 I’m currently a graduate student studying Software Engineering at Northwestern Polytechnical University
 - 💞️ I’m looking to collaborate with individuals who are open to working on object detection and segmentation problems in order to solve needs in the medical industry.
